@@ -1,0 +1,33 @@
+{
+  "name": "ui5-sdk",
+  "version": "1.0.0",
+  "description": "SAP UI5 SDK",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhangtiwari/ui5-sdk.git"
+  },
+  "keywords": [
+    "sap",
+    "ui5",
+    "js",
+    "javascript",
+    "framework"
+  ],
+  "author": "Shubhang Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhangtiwari/ui5-sdk/issues"
+  },
+  "homepage": "https://github.com/shubhangtiwari/ui5-sdk#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
